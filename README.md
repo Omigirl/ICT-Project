@@ -1,4 +1,4 @@
 # ICT-Project
-This is Yerassyl's and Kairat's project for ICT course - Astana IT University.
+This is our visual representation of our Data Base!
 
 ![ERD](ERD_Yera_Kair.png)
